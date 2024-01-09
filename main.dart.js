@@ -38999,7 +38999,7 @@ return A.bW(B.C,new A.cr(B.lG,A.dx(A.a([B.JL,B.Ll,A.ff(A.a([A.bW(r,new A.vd(i,B.
 A.FL.prototype={
 I(a){var s,r,q,p=null,o=t.w,n=A.aW(a,p,o).w
 A.fr("home page built")
-s=A.vp("assets/images/AS_logo.png",p,B.da,A.aW(a,p,o).w.a.b*1.5,1/0)
+s=A.vp("assets/images/bg.jpg",p,B.da,A.aW(a,p,o).w.a.b*1.5,1/0)
 o=A.aW(a,p,o).w
 r=A.ko("#0A115C")>>>0
 q=t.p
