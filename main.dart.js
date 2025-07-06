@@ -64296,7 +64296,7 @@ i=t.m0
 h=t.K
 h=B.co.Sd(A.al(["personalizations",A.b([A.al(["to",A.b([A.al(["email","adityakmcs@gmail.com"],j,j)],i),"subject","[Contact Form] "+e],j,h)],t.Mq),"from",A.al(["email","adityakmcs@gmail.com"],j,j),"reply_to",A.al(["email",b],j,j),"content",A.b([A.al(["type","text/plain","value","You\u2019ve received a new message from your website contact form.\n\nName    : "+c+" "+d+"\nEmail   : "+b+"\nSubject : "+e+"\n\nMessage:\n"+a+"\n\n---\nThis message was sent from your website\u2019s contact form.\n            "],j,j)],i)],j,h),null)
 s=7
-return A.S(n.a.rk("POST",k,A.al(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer "],j,j),h,null),$async$uK)
+return A.S(n.a.rk("POST",k,A.al(["Content-Type","application/json; charset=UTF-8","Authorization","Bearer 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"],j,j),h,null),$async$uK)
 case 7:m=a1
 A.iT("Response Code: "+m.b)
 A.iT("Response Headers: "+m.e.k(0))
